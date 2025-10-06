@@ -38,11 +38,17 @@ python experiment.py
 5. The results are saved to `results` directory.
 
 
-<!-- ## Citing
+## Citing
 If you find this work useful in your research, please consider citing.
 
 ```
-@article{Trailers12k-2023103343,
-title = {MetaChest: Generalized few-shot learning of patologies from chest X-rays}
+@misc{montalvolezama2025metachestgeneralizedfewshotlearning,
+title={MetaChest: Generalized few-shot learning of patologies from chest X-rays}, 
+author={Berenice Montalvo-Lezama and Gibran Fuentes-Pineda},
+year={2025},
+eprint={2509.25590},
+archivePrefix={arXiv},
+primaryClass={cs.CV},
+url={https://arxiv.org/abs/2509.25590}, 
 }
-``` -->
+```
